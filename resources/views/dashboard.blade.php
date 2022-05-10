@@ -31,7 +31,7 @@
                 </a>
             </li>
             <li>
-                <a href="{{ url('lihat-nilai/' . Auth::id()) }}">
+                <a href="#">
                     <i class='bx bx-book-alt'></i>
                     <span class="links_name">Lihat Nilai Anak</span>
                 </a>
